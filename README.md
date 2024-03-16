@@ -42,7 +42,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=merazulEhsan&show_icons=true&locale=en&theme=transparent" alt="merazulEhsan" /></p>
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-trophy.vercel.app/api?username=merazulEhsan&show_icons=true&locale=en&theme=transparent" alt="merazulEhsan" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=merazulEhsan&theme=transparent" alt="merazulEhsan" /></p>
 
