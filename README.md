@@ -43,9 +43,9 @@
 
 <h3 align="left">Stars</h3>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-trophy.vercel.app/api?username=merazulEhsan&show_icons=true&locale=en&theme=transparent" alt="merazulEhsan" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merazulEhsan&label=Profile%20views&color=0e75b6&style=flat" alt="merazulEhsan" /> </p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=merazulEhsan&theme=transparent" alt="merazulEhsan" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merazulEhsan&theme=juicyfresh" alt="merazulEhsan" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=merazulEhsan&theme=github-dark"/>
