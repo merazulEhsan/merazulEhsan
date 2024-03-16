@@ -4,7 +4,7 @@
 <h3 align="center">Proficient in Frontend Development using React JS, Tailwind CSS, JavaScript and Next JS. I love to work on web application using technologies like HTML, CSS, React, Tailwind, JavaScript, Next JS and so on.,</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merazulEhsan&label=Profile%20views&color=0e75b6&style=flat" alt="merazulEhsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merazulEhsan&theme=onedark" alt="merazulEhsan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merazulEhsan&theme=juicyfresh" alt="merazulEhsan" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **React JS, Next JS, JavaScript **
@@ -41,11 +41,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merazulEhsan&label=Profile%20views&color=0e75b6&style=flat" alt="merazulEhsan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merazulEhsan&theme=juicyfresh" alt="merazulEhsan" /></a> </p>
 
 <div> <a href="https://github.com/merazulEhsan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
